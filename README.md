@@ -13,6 +13,14 @@ skill. The MCP server itself is the Total CMS docs extension running on
 totalcms.co; changes to its tools reach both directories without a new plugin
 version.
 
+## Listings
+
+- **ChatGPT** (approved 2026-10-22):
+  https://chatgpt.com/plugins/plugin_asdk_app_6abdb19953248191932b75de95b06dbd
+- **Claude** (approved): the directory has no public page per listing. Users
+  find it by searching for "Total CMS" in the directory inside Claude, so link
+  to the plugin by name rather than by URL.
+
 ## Layout
 
 ```

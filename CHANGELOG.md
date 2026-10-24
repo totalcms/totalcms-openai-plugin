@@ -2,7 +2,15 @@
 
 All notable changes to the Total CMS plugin will be documented in this file. The Claude and OpenAI listings version independently; each entry names the listing it applies to.
 
-## [Unreleased]
+## [1.1.0] - 2026-10-23
+
+Both listings.
+
+### Changed
+
+- **Skill**: Resynced with Total CMS 3.6.3. New references: `member-content.md` (owned collections, protected fields, public registration and members connecting their own AI clients) and `troubleshooting.md` (diagnostic steps and a support report template). The rest are updated to match the current code, including the new CLI commands and the MCP access rules
+
+## Claude [1.0.0] - 2026-09-30
 
 ### Added
 

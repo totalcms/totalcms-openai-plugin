@@ -1,6 +1,6 @@
 {
   "name": "totalcms",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Search and read the Total CMS documentation and reference from ChatGPT.",
   "author": {
     "name": "Aspect Services, LLC",
@@ -99,7 +99,7 @@
         "commerce": false
       },
       "publication": {
-        "release_notes": "Initial release. Search and read the Total CMS documentation, look up reference entries (Twig functions and filters, field types, REST API endpoints, schema configuration keys, CLI commands), and browse release notes, the extensions catalog, comparisons, and buying guides. Includes the Total CMS site-building skill. The connector is read-only and returns no personal data; see totalcms.co/privacy."
+        "release_notes": "Updated Total CMS skill for 3.6.3: new guidance for member-submitted content (owned collections, protected fields, public registration) and a troubleshooting guide, with the existing references brought up to date. The connector is unchanged: read-only, no personal data."
       }
     }
   }

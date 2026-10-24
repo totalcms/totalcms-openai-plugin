@@ -71,7 +71,7 @@
               "description": "Report the newest release from the live changelog rather than from static documentation.",
               "prompt": "What's new in the latest Total CMS release?",
               "tools_triggered": "latest_release",
-              "expected_behavior": "latest_release returns the newest entry on totalcms.co/releases — at the time of submission, version 3.6.1, 'Fixes for galleries, decks and dates', dated 2026-09-28 — with its summary and the URL /releases/3-6-1. The assistant summarizes the actual items in that release."
+              "expected_behavior": "latest_release returns the newest entry on totalcms.co/releases: its version number, title, release date, summary and URL under /releases/. The assistant names that version and summarizes the actual items in that release. The answer changes with each new release, so check it against the top entry on totalcms.co/releases at review time."
             },
             {
               "description": "Search the site's published content, then read one result in full — the search/fetch pair used for research questions.",

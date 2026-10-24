@@ -79,7 +79,7 @@ repository `totalcms/totalcms-plugins`, plugin folder `package`.
 
 1. Edit `package/.codex-plugin/plugin.json`: bump `version`, update
    `extensions.com.openai.publication.release_notes`, and re-check the test
-   cases against the live server (test case 4 names the current release).
+   cases against the live server.
 2. Run `bin/build.sh`.
 3. At https://platform.openai.com/plugins, open **Total CMS** → **Upload plugin**
    and choose the ZIP from `dist/`.
